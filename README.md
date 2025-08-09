@@ -3,3 +3,5 @@
 ingresar datos a la lista : -Logrado
 validacion de entrada     : -Logrado
 limpiar el input          : -Logrado
+
+se arreglo un fallo en el index
