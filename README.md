@@ -1,17 +1,26 @@
-<h1>Juego del amigo secreto</h1>
-**Primer arreglo**
-    _ingresar datos a la lista                         : [x]-Logrado
-     _validacion de entrada                            : [x]Logrado
-      _limpiar el input                                : [x]Logrado
+# Juego del Amigo Secreto
 
-Segundo arreglo 
-    problema en el index                             : -resuelto 
+Proyecto en HTML, CSS y JavaScript para organizar un sorteo del Amigo Secreto de forma interactiva.
 
-Tercer Arreglo
-    agregar los datos del input a la lista amigos[]; : -logrado
-    mostrar los datos amigos[]; en el index con li   : -logrado
-    escoger un dato aleatorio de la lista amigos[];  : -logrado
-    reinicar sorteo borrando todo                    : -logrado 
+---
 
-    Juego Terminado.   
+## Progreso del desarrollo
+
+### Primer arreglo
+- [x] Ingresar datos a la lista  
+- [x] Validación de entrada  
+- [x] Limpiar el input  
+
+### Segundo arreglo
+- [x] Problema en el índice  
+
+### Tercer arreglo
+- [x] Agregar los datos del input a la lista `amigos[]`  
+- [x] Mostrar los datos `amigos[]` en el index con `<li>`  
+- [x] Escoger un dato aleatorio de la lista `amigos[]`  
+- [x] Reiniciar sorteo borrando todo  
+
+---
+
+**Juego Terminado**
 
